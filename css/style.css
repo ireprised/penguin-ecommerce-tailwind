@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+body {
+  margin: 0px;
+  background-color: #e5e5e5;
+}
+header {
+  height: 715px;
+}
+.yellow-text {
+  font-family: "Bebas Neue", cursive;
+}
+svg {
+  display: inline;
+  margin-right: 8px;
+}
